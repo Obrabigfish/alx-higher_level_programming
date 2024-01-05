@@ -7,4 +7,3 @@ def uppercase(str):
         else:
             total += chara
     print("{:s}".format(total))
-
